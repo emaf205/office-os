@@ -1,58 +1,105 @@
-# ⚡ OFFICE OS — L'AI per l'ufficio. Senza allucinazioni.
+# OFFICE OS
 
-> 🌐 **Prova subito la suite online:** [**emaf205.com/ideas/office-os**](https://emaf205.com/ideas/office-os)  
-> 💡 **Progetto Open-Source & 100% Gratuito:** Zero abbonamenti, nessun account richiesto, 100% privato nel browser.
+**L'AI per l'ufficio, senza dover ricominciare ogni volta da zero.**
 
----
+Uso e insegno intelligenza artificiale ogni giorno. E in ufficio il problema che vedo più spesso non è la mancanza di strumenti.
+
+È il contrario: ce ne sono troppi.
+
+ChatGPT, Claude, Copilot, Gemini. Apri una chat, spieghi il contesto, scrivi un prompt, correggi la risposta, aggiungi dati, ricominci. E quando il modello non sa qualcosa, a volte prova comunque a riempire i buchi.
+
+A un certo punto mi sono chiesto:
+
+> **E se invece di chiedere ogni volta all'AI di capire come lavorare, le dessimo già un metodo?**
+
+Da qui nasce **OFFICE OS**.
+
+Non è un altro chatbot. È una raccolta di **32 assistenti operativi** progettati per compiti reali da ufficio: dati, documenti, progetti, meeting e decisioni.
+
+Ogni assistente contiene istruzioni strutturate, controlli anti-invenzione e un workflow preciso. Tu scegli il compito, copi il prompt e lo usi con il modello che preferisci.
+
+**→ [PROVA OFFICE OS ONLINE](https://emaf205.com/ideas/office-os)**
 
 <p align="center">
-  <img src="./assets/screenshot-home-portal.png" alt="OFFICE OS - Homepage e Portali Operativi" width="900" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <img src="./assets/screenshot-home-portal.png" alt="OFFICE OS - Homepage e Portali Operativi" width="900" />
 </p>
 
----
+## Il problema che volevo risolvere
 
-## 🎯 Cos'è OFFICE OS?
+Un prompt generico può funzionare una volta.
 
-**OFFICE OS** è una suite operativa open-source creata per trasformare l'Intelligenza Artificiale in uno strumento di lavoro pratico, affidabile e immediato per chi lavora ogni giorno in ufficio.
+Ma nel lavoro quotidiano serve qualcosa di più stabile:
 
-Basta prompt generici che inventano dati o danno risposte vaghe: i **32 assistenti** di OFFICE OS sono istruzioni specializzate e strutturate per svolgere compiti operativi reali in pochi secondi su qualsiasi modello (ChatGPT, Claude, Copilot o Gemini).
+- sapere quali dati servono;
+- distinguere ciò che è noto da ciò che manca;
+- evitare che il modello inventi informazioni;
+- ottenere un output già organizzato;
+- poter ripetere lo stesso processo senza ricominciare da capo.
 
-### ✨ Caratteristiche Principali
+OFFICE OS nasce per questo: **trasformare il prompt in una procedura operativa riutilizzabile**.
 
-- 🛡️ **Zero Allucinazioni:** Ogni prompt contiene vincoli anti-invenzione e istruzioni rigide di verifica (se un dato manca, l'AI lo segnala invece di inventarlo).
-- ⚡ **Copia in 1 Click:** Scegli il tool, tocca **Copia Prompt** e incollalo nella tua chat AI abituale con i tuoi file o testi.
-- 🔒 **100% Privacy & Sicurezza:** Nessun dato aziendale o personale viene raccolto, salvato o inviato a server esterni. L'applicazione funziona al 100% nel tuo browser.
-- 📱 **Funziona Offline (PWA):** Puoi installarla su iPhone, Android, Mac o Windows direttamente dal browser e usarla ovunque, anche in aereo o senza connessione internet.
+## Come funziona
 
----
+**SCEGLI → COPIA → AGGIUNGI I TUOI DATI → USA**
 
-## 🗂️ Le 4 Aree Operative (32 Tool Inclusi)
+Non devi installare un modello specifico e non sei legato a un'unica piattaforma.
 
-1. 📊 **Fogli & Dati (8 Tool):** Pulizia automatica tabelle, audit formule, estrazione KPI, riconciliazione tra due fogli, previsioni di cassa e analisi budget.
-2. 📄 **Contratti & Documenti (8 Tool):** Scadenzari vincoli, slide pronte per CDA, sintesi direzionali di report lunghi, bozze preventive e contratti fornitore.
-3. 🎯 **Task & Progetti (8 Tool):** Da email caotica a lista to-do con priorità, pre-mortem dei rischi, procedure operative standard (SOP) e piani di progetto.
-4. 🤝 **Meeting & Decisioni (8 Tool):** Verbale e compiti da trascrizioni, matrici di comparazione decisionale, domande scomode prima di una riunione chiave e risposte a reclami.
+I prompt possono essere usati con **ChatGPT, Claude, Copilot o Gemini**.
 
----
+## 32 assistenti, 4 aree
 
-## 🌐 Provalo Subito
+### Fogli & Dati
 
-Non devi installare nulla sul tuo computer. Puoi aprire la suite completa direttamente online:
+Pulizia tabelle, audit formule, estrazione KPI, riconciliazione tra fogli, previsioni di cassa e analisi budget.
 
-👉 [**https://emaf205.com/ideas/office-os**](https://emaf205.com/ideas/office-os)
+### Contratti & Documenti
 
----
+Scadenzari, sintesi direzionali, bozze preventive, analisi di documenti e materiali per il CDA.
 
-## 👤 Autore & Contatti
+### Task & Progetti
 
-Ideato e sviluppato con passione da **Emanuele BDC**:
+Da email caotiche a to-do con priorità, SOP, pre-mortem dei rischi e piani di progetto.
 
-- 🔗 **Linktree:** [linktr.ee/emaf205](https://linktr.ee/emaf205)
-- 💼 **LinkedIn:** [linkedin.com/in/emanuelebdc](https://www.linkedin.com/in/emanuelebdc/)
-- 🌐 **Sito Web:** [emaf205.com](https://emaf205.com)
+### Meeting & Decisioni
 
----
+Verbali, attività da assegnare, matrici di confronto, preparazione di riunioni e gestione dei reclami.
 
-## 📄 Licenza
+## Le regole che ho imposto al sistema
 
-Questo progetto è distribuito sotto licenza **MIT Open Source** — libero per uso personale, aziendale e professionale.
+**Non inventare.**  
+Se manca un dato, deve segnalarlo.
+
+**Non improvvisare il processo.**  
+Ogni assistente segue una struttura definita.
+
+**Non obbligare l'utente a cambiare modello.**  
+Il sistema è pensato per essere agnostico rispetto alla piattaforma AI.
+
+**Non raccogliere i tuoi dati.**  
+L'applicazione funziona nel browser e non richiede account o registrazione.
+
+## Perché una PWA
+
+Volevo che OFFICE OS fosse più vicino a uno strumento che a un sito.
+
+Puoi aprirlo dal browser, installarlo su desktop o mobile e usare l'interfaccia anche offline dopo il caricamento iniziale.
+
+## Provalo
+
+**→ [emaf205.com/ideas/office-os](https://emaf205.com/ideas/office-os)**
+
+Nessun account. Nessun abbonamento.
+
+Scegli un assistente, copia il prompt e portalo nella tua AI.
+
+## Autore
+
+**Emanuele BDC**
+
+[Blog](https://emaf205.com/blog) · [LinkedIn](https://www.linkedin.com/in/emanuelebdc/) · [Linktree](https://linktr.ee/emaf205)
+
+*Made by me with love in Milan*
+
+## Licenza
+
+OFFICE OS è distribuito con licenza **MIT**.
