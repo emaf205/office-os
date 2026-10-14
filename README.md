@@ -1,7 +1,7 @@
 # Office OS — Local-First Workspace for Distraction-Free Daily Operations
 
 <p align="center">
-  <img src="https://emaf205.com/github/assets/covers/office-os.jpg" alt="Office OS Cover Artwork" width="100%">
+  <img src="assets/social-preview.jpg" alt="Office OS Cover Artwork" width="100%">
 </p>
 
 > **"Your daily office desk, distilled to pure speed."**  
